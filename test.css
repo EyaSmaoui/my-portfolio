@@ -1,0 +1,12 @@
+.test{
+display:flex;
+direction:row;
+background-color: aqua;
+color: black;
+height: 45PX;
+padding:30PX;
+margin:0;
+list-style: none;
+justify-content: space-evenly;
+}
+
